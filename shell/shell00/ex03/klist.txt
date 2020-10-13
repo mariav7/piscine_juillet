@@ -1,0 +1,5 @@
+Credentials cache: API:4A2756F7-66CC-4B47-9386-FBE82B304CB0
+        Principal: mflores-@42.FR
+
+  Issued                Expires               Principal
+Jun 29 15:17:32 2020  Jul  6 15:17:06 2020  krbtgt/42.FR@42.FR
